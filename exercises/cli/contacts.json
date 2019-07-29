@@ -1,7 +1,12 @@
 {
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
-    "lastName": "asfdasdf",
-    "phoneNumber": "asfdsf"
+  "Ashley Smith": {
+    "firstName": "Ashley",
+    "lastName": "Smith",
+    "phoneNumber": 1234567890
+  },
+  "Will Hammond": {
+    "firstName": "Will",
+    "lastName": "Hammond",
+    "phoneNumber": "7817774537"
   }
 }
